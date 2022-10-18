@@ -50,3 +50,4 @@ Seam carving is a content-aware image resizing algorithm.It works by finding a n
     - When the part is selected click "s" on your keyword. 
     - Wait for few seconds and image will start removing the described object.
   
+  
